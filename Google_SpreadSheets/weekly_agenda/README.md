@@ -1,5 +1,4 @@
 # English
-# GSS - Practice for Week 2-nd Students
 
 You can access the "GSS - Practice for Week 2-nd Students" file live from this folder.
 
