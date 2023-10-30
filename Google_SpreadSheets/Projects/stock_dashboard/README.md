@@ -45,6 +45,7 @@ The utilization of web scraping and data extraction techniques has significantly
 
 - [Google Sheets Project](https://docs.google.com/spreadsheets/d/1ZxVQM_sKifJaa03sV4ADHqZfVPi-47Vnc1K4kSj4LaU/edit?usp=sharing)
 - [GitHub Repository](https://github.com/huseyincenik/spreadsheets/tree/main/Google_SpreadSheets/Projects/stock_dashboard)
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7124664703628230656/)
 
 ## Tags
 
