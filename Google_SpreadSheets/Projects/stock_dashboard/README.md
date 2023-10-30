@@ -1,4 +1,4 @@
-# Financial Data Analysis Project
+# Stock Market Dashboard Project
 
 ![stock_dashboard](https://github.com/huseyincenik/spreadsheets/assets/127469334/2d72b287-fb86-4fdd-a7f0-26826eaae1e8)
 
@@ -43,8 +43,8 @@ The utilization of web scraping and data extraction techniques has significantly
 
 ## Project Links
 
-- [Google Sheets Project](https://lnkd.in/dp2G9Nss)
-- [GitHub Repository](https://lnkd.in/dCAPu_th)
+- [Google Sheets Project](https://docs.google.com/spreadsheets/d/1ZxVQM_sKifJaa03sV4ADHqZfVPi-47Vnc1K4kSj4LaU/edit?usp=sharing)
+- [GitHub Repository](https://github.com/huseyincenik/spreadsheets/tree/main/Google_SpreadSheets/Projects/stock_dashboard)
 
 ## Tags
 
