@@ -23,9 +23,13 @@ Spreadsheets have a variety of use cases:
 ## About This Repo
 This GitHub repository contains various examples of spreadsheet usage and provides resources related to using spreadsheets. The examples and resources are categorized and can be found in respective folders. By using this repository, you can learn about the features and usage of different spreadsheet software.
 
-## Examples and Resources
-- [Google Sheets Examples](Google_SpreadSheets)
-- [Microsoft Excel Examples](excel)
+## Projects
+
+| Project Name     | Description         | GitHub                                  | Deployment                             |
+|------------------|---------------------|---------------------------------------------|--------------------------------------------|
+| Stock Dashboard  | Financial Data Tracking | [GitHub](https://github.com/huseyincenik/spreadsheets/tree/main/Google_SpreadSheets/Projects/stock_dashboard) | [Deployment](https://github.com/huseyincenik/spreadsheets/tree/main/Google_SpreadSheets/Projects/stock_dashboard) |
+
+
 
 ## Contributing
 If you'd like to contribute to this repository, please create a pull request. I'm open to suggestions, adding new examples or resources, and updating existing content.
